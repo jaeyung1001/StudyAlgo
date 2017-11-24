@@ -1,2 +1,2 @@
 # StudyAlgo
-improve c++
+improve programming skill
