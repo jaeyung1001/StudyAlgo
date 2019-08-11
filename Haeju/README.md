@@ -1,2 +1,0 @@
-# StudyAlgo
-improve programming skill
